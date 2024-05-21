@@ -10,5 +10,4 @@ this is our bible
 7. Plate has second came in day 0, on this day in our weed smoking lord
 8. You shall not implement state resolution v1
 9. Thou shalt not shill envs.net
-
 10. net tspend[nettspedn](https://www.youtube.com/watch?v=YT0pU9Pq5qc)
