@@ -10,4 +10,7 @@ this is our bible
 7. Plate has second came in day 0, on this day in our weed smoking lord
 8. You shall not implement state resolution v1
 9. Thou shalt not shill envs.net
-10. net tspend[nettspedn](https://www.youtube.com/watch?v=YT0pU9Pq5qc)
+10. [net tspend](https://www.youtube.com/watch?v=YT0pU9Pq5qc)
+11. Thou shalt not use Dendrite
+12. Thou shalt shill Vim
+13. Thou shalt never 4 of the chan
