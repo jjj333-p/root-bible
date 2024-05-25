@@ -1,7 +1,7 @@
 # root-bible
-this is our bible
+This is our bible
 
-1. Thou shalt not type !q in #root:ari.lt
+1. Thou shalt not type !q in [root](https://matrix.to/#/#root:ari.lt)
 2. Day 0 is 4/20/2024 in funny murcan time
 3. A week is 8 days
 4. A month is 4 weeks
