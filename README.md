@@ -11,8 +11,9 @@ This is our bible
 8. Thou shalt not implement state resolution v1
 9. Thou shalt not shill envs.net or 4d2.org
 10. [Nettspend](https://inv.tux.pizza/watch?v=YT0pU9Pq5qc)
-11. Thou shalt not use Dendrite
-12. Thou shalt shill Vim
-13. Thou shalt never 4 of the chan
-14. Thou shalt microwave aliminum foil
-15. Thou shalt have no other Homeservers before Synapse
+11. Thou shalt shill Vim
+12. Thou shalt never 4 of the chan
+13. Thou shalt microwave aliminum foil
+14. Thou shalt have no other Homeservers before Synapse
+15. [Thou shalt be a goofy goober](https://github.com/cold360/root-bible/assets/164063937/121494a3-c5f3-4ea0-913f-2b2fd313a5e5)
+
