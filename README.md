@@ -1,4 +1,5 @@
 # root-bible
+
 This is our bible
 
 1. Thou shalt not type !q in [root](https://matrix.to/#/#root:ari.lt)
@@ -23,3 +24,4 @@ This is our bible
 20. Thou shalt never use Revolt or else be publicly shamed
 22. Thou shalt never join any room ending in :matrix.org
 23. [Thou shalt look at this awesome Neocat wtf](https://github.com/jjj333-p/root-bible/assets/164063937/b3336260-6b98-4c3a-bd8b-a0c16d00b2a2)
+24. 25 th junial is the return of LDA
