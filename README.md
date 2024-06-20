@@ -19,7 +19,7 @@ This is our bible
 15. [Thou shalt be a goofy goober](https://github.com/cold360/root-bible/assets/164063937/121494a3-c5f3-4ea0-913f-2b2fd313a5e5)
 16. Five Guys fucking sucks NEVER go there
 17. Thou shalt call it Jabber, not XMPP
-18. Thou shalt migrate root to Jabber!! Pls 🥺
+18. Thou shalt use Jabber
 19. An hour is 30 minutes
 20. Thou shalt never use Revolt or else be publicly shamed
 22. Thou shalt never join any room ending in :matrix.org
