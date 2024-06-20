@@ -25,3 +25,16 @@ This is our bible
 22. Thou shalt never join any room ending in :matrix.org
 23. [Thou shalt look at this awesome Neocat wtf](https://github.com/jjj333-p/root-bible/assets/164063937/b3336260-6b98-4c3a-bd8b-a0c16d00b2a2)
 24. 25 th junial is the return of LDA
+
+## Repentment
+
+If you have sinned, thou shalt chant [the accumulative repentment prayer](https://quotes.ari.lt/image/67):
+
+```
+J'AIME L'OIGNON FRIT A L'HUILE
+J'AIME L'OIGNON QUAND IL EST BON
+J'AIME L'OIGNON FRIT A L'HUILE
+J'AIME L'OIGNON, J'AIME L'OIGNON
+```
+
+At least 69 times.
