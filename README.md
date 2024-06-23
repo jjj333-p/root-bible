@@ -19,9 +19,22 @@ This is our bible
 15. [Thou shalt be a goofy goober](https://github.com/cold360/root-bible/assets/164063937/121494a3-c5f3-4ea0-913f-2b2fd313a5e5)
 16. Five Guys fucking sucks NEVER go there
 17. Thou shalt call it Jabber, not XMPP
-18. Thou shalt migrate root to Jabber!! Pls 🥺
+18. Thou shalt use Jabber
 19. An hour is 30 minutes
 20. Thou shalt never use Revolt or else be publicly shamed
 22. Thou shalt never join any room ending in :matrix.org
 23. [Thou shalt look at this awesome Neocat wtf](https://github.com/jjj333-p/root-bible/assets/164063937/b3336260-6b98-4c3a-bd8b-a0c16d00b2a2)
 24. 25 th junial is the return of LDA
+
+## Repentment
+
+If you have sinned, thou shalt chant [the accumulative repentment prayer](https://quotes.ari.lt/image/67):
+
+```
+J'AIME L'OIGNON FRIT A L'HUILE
+J'AIME L'OIGNON QUAND IL EST BON
+J'AIME L'OIGNON FRIT A L'HUILE
+J'AIME L'OIGNON, J'AIME L'OIGNON
+```
+
+At least 69 times.
