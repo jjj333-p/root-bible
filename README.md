@@ -29,7 +29,7 @@ This is our bible
 
 ## Repentment
 
-If you have sinned, thou shalt chant [the accumulative repentment prayer](https://quotes.ari.lt/image/67):
+If you have sinned, thou shalt chant the accumulative repentment prayer (quote 67):
 
 ```
 J'AIME L'OIGNON FRIT A L'HUILE
@@ -39,3 +39,7 @@ J'AIME L'OIGNON, J'AIME L'OIGNON
 ```
 
 At least 69 times.
+
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/4786a51a-b31e-40bf-bb12-5c6fa5c4882a" alt="Image of quote 67" />
+</div>
