@@ -47,9 +47,9 @@ At least 69 times.
 
 ## Rootspeak
 
-YYYYYYYYYYYYYYYY
+Our cool language.
 
-### Alpha oil
+### Alpha oil (Alphabet)
 
 1. a A
 2. b B
@@ -67,9 +67,9 @@ YYYYYYYYYYYYYYYY
 14. k K
 15. we WE
 16. 漢 漢
-17. kan
-18. mission failed we'll get em next time
+17. kan KAN
+18. mission failed we'll get em next time (MISSION FAILED WE'LL GET EM NEXT TIME)
 19. Š š
-20. han
+20. han HAN
 
 ![image](https://github.com/user-attachments/assets/ea37a396-27f8-4228-82f8-eeb605672660)
