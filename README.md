@@ -44,3 +44,32 @@ At least 69 times.
 <div align="center">
     <img src="https://github.com/user-attachments/assets/4786a51a-b31e-40bf-bb12-5c6fa5c4882a" alt="Image of quote 67" />
 </div>
+
+## Rootspeak
+
+Our cool language.
+
+### Alpha oil (Alphabet)
+
+1. a A
+2. b B
+3. c C
+4. d D
+5. e E
+6. f F
+7. g G
+8. h H
+9. p P
+10. l L
+11. z Z
+12. u U
+13. U u
+14. k K
+15. we WE
+16. 漢 漢
+17. kan KAN
+18. mission failed we'll get em next time (MISSION FAILED WE'LL GET EM NEXT TIME)
+19. Š š
+20. han HAN
+
+![image](https://github.com/user-attachments/assets/ea37a396-27f8-4228-82f8-eeb605672660)
