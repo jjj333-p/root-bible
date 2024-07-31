@@ -27,6 +27,7 @@ This is our bible
 23. [Thou shalt look at this awesome Neocat wtf](https://github.com/jjj333-p/root-bible/assets/164063937/b3336260-6b98-4c3a-bd8b-a0c16d00b2a2)
 24. 25 th junial is the return of LDA
 25. jjj is dendrite
+26. thou shalt leabe
 
 ## Repentment
 
