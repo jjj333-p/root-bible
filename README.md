@@ -10,7 +10,7 @@ This is our bible
 6. Morguildir can split LDA in 32
 7. Plate has second came in day 0, on this day in our weed smoking lord
 8. Thou shalt not implement state resolution v1
-9. Thou shalt not shill envs.net or 4d2.org
+9. ~~Thou shalt not shill envs.net or 4d2.org~~
 10. [Nettspend](https://inv.tux.pizza/watch?v=YT0pU9Pq5qc)
 11. Thou shalt shill Vim
 12. Thou shalt never 4 of the chan
@@ -29,6 +29,7 @@ This is our bible
 25. jjj is dendrite
 26. thou shalt never horse
 27. good bye root
+28. rule #9 has been repealed 
 
 ## Repentment
 
