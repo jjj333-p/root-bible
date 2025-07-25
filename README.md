@@ -24,7 +24,7 @@ This is our bible
 20. An hour is 30 minutes
 21. Thou shalt never use Revolt or else be publicly shamed
 22. Thou shalt never join any room ending in :matrix.org
-23. [Thou shalt look at this awesome Neocat wtf](https://github.com/jjj333-p/root-bible/assets/164063937/b3336260-6b98-4c3a-bd8b-a0c16d00b2a2)
+23. [Thou shalt look at this awesome 3D spinny blobcat wtf](https://github.com/jjj333-p/root-bible/assets/164063937/b3336260-6b98-4c3a-bd8b-a0c16d00b2a2)
 24. 25 th junial is the return of LDA
 25. jjj is dendrite
 26. thou shalt never horse
