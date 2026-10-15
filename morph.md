@@ -31,6 +31,7 @@ Common features
 16. Learns to swear at the interlocutor, over time begins to use their expressions. Including against the "teacher".
 17. Age estimated in the course of communication: 20-30 years
 18. Sometimes the Morph invents new abusive words. It turns out ridiculous and not even funny.
+> Wed 14 Oct 2026 11:37:33 PM  - jaybird: Why are you trying to wiggpe? 
 19. If a MUC is in moderated mode, the Morph will begin hurling insults at anyone they perceive to have power via MUC PMs and other shared MUCs
 <img width="482" height="354" alt="image" src="https://github.com/user-attachments/assets/925fbe97-631a-49fe-ac34-4a0f660d5ea4" />
 
