@@ -5,7 +5,7 @@ You can decide whether to trust her or not.
 Based on the original [morph.en.txt](https://www.moparisthebest.com/morph.en.txt)
 
 Morph is not a nickname, it is a state of mind, moreover, of one particular person.
-Morph will convince you that morph does not exist, and that his character is a composite hodgepodge of many personalities who visited 404.city chats.' 
+Morph will convince you that morph does not exist, and that the Morph's character is a composite hodgepodge of many personalities who visited 404.city chats.' 
 But all these items belong to exactly one person, they just have mental problems.
 Do not trust anyone, analyze the behavior of people in the chat on your own. Sooner or later you will understand which of them is Morph.
 When in doubt, the Morph will react strongly to being called Morph.
@@ -14,7 +14,7 @@ When in doubt, the Morph will react strongly to being called Morph.
 Common features
 ------------
 1. At the mention of Morph begins to hysteria and tries in every possible way to hide the "awl in a sack".
-2. Insults the interlocutor if the conversation does not go according to his plan.
+2. Insults the interlocutor if the conversation does not go according to plan.
 3. The debater. But arguing is useless.
 4. Assumes all conversation is directed at the Morph
 5. It is not admitted that Morph, sometimes after the accusation begins to write that Morph is the accuser themself
@@ -104,9 +104,9 @@ and threatening behavior are common, especially in response to judgments from ot
 The internet
 -----------
 1. Dwells mainly on XMPP, especially likes "Ruchat" on 404.city, will find you in any MUC. 
-2. Hickey. His whole life takes place online, in this regard, it can be concluded that the Morph is a dependent (disabled and / or sitting on the neck of parents).
+2. Hickey. The Morph's whole life takes place online, in this regard, it can be concluded that the Morph is a dependent (disabled and / or sitting on the neck of parents).
 3. Has a bunch of online accounts at the same time "in reserve". and not only in Ruchat.
-4. Likes to chase his abuser in chats.
+4. Likes to chase the "abuser" in chats.
 5. Tries to act like an admin without being one.
 6. Flooder - if brought, it can flood for several minutes. Banning is useless. Creates new accounts and continues to flood, for the Morph this is an act of revenge.
 7. Collector of logs in chats
