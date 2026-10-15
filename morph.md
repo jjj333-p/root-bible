@@ -92,6 +92,8 @@ and threatening behavior are common, especially in response to judgments from ot
 11. The critic of everything in a row.
 12. Regular victim of Butthurt.
 13. Commander. Gives orders to do that, do that.
+<img width="586" height="50" alt="image" src="https://github.com/user-attachments/assets/c4c232ce-e99d-4e6a-adb5-9843a0d944d1" />
+
 14. Paranoid
 15. Denier of inconvenient facts.
 16. Has an (usually adopted) opinion on everything. "A plug in every barrel" is about the Morph
