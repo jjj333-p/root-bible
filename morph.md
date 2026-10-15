@@ -16,10 +16,11 @@ Common features
 1. At the mention of Morph begins to hysteria and tries in every possible way to hide the "awl in a sack".
 2. Insults the interlocutor if the conversation does not go according to his plan.
 3. The debater. But arguing is useless.
-4. It is not admitted that Morph, sometimes after the accusation begins to write that Morph is the accuser themself
-5. Considers being referred to with the wrong pronouns (including they/them) a personal affront, but often refuses to use other's preferred pronouns
-6. Considers being banned an act of violence
-7. Will evade bans at an incredible rate
+4. Assumes all conversation is directed at the Morph
+5. It is not admitted that Morph, sometimes after the accusation begins to write that Morph is the accuser themself
+6. Considers being referred to with the wrong pronouns (including they/them) a personal affront, but often refuses to use other's preferred pronouns
+7. Considers being banned an act of violence
+8. Will evade bans at an incredible rate
 9. Likes to translate arrows to the interlocutor
 10. Personally oriented. The opinion of the interlocutor is very important to the Morph. Considers that the opinion of the morph is also very important to the interlocutor
 11. Assumes that the interlocutor is interested in everything the Morph has to share, and that withholding this sharing is a punishment of the interlocutor
@@ -30,7 +31,7 @@ Common features
 16. Learns to swear at the interlocutor, over time begins to use their expressions. Including against the "teacher".
 17. Age estimated in the course of communication: 20-30 years
 18. Sometimes the Morph invents new abusive words. It turns out ridiculous and not even funny.
-8. If a MUC is in moderated mode, the Morph will begin hurling insults at anyone they perceive to have power via MUC PMs and other shared MUCs
+19. If a MUC is in moderated mode, the Morph will begin hurling insults at anyone they perceive to have power via MUC PMs and other shared MUCs
 <img width="482" height="354" alt="image" src="https://github.com/user-attachments/assets/925fbe97-631a-49fe-ac34-4a0f660d5ea4" />
 
 
@@ -162,3 +163,5 @@ Toad with an eye on a snatch,
 Know whore, AUE!
 
 ***
+
+<img width="1055" height="412" alt="image" src="https://github.com/user-attachments/assets/ef04bd83-a3d9-4af8-a63c-58fdf2d4e7d5" />
