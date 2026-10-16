@@ -11,7 +11,9 @@ This is our bible
 7. Plate has second came in day 0, on this day in our weed smoking lord
 8. Thou shalt not implement state resolution v1
 9. ~~Thou shalt not shill envs.net or 4d2.org~~
-10. [Nettspend](https://inv.tux.pizza/watch?v=YT0pU9Pq5qc)
+10. ~~[Nettspend](https://www.youtube.com/watch?v=YT0pU9Pq5qc)~~
+<img height="200" alt="image" src="https://github.com/user-attachments/assets/cf5553d7-0654-4653-93e3-53e77a163a2e" />
+
 11. Thou shalt shill Vim
 12. Thou shalt never 4 of the chan
 13. Thou shalt microwave aliminum foil
